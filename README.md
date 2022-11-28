@@ -1,2 +1,2 @@
-# Assignments
-Assignments submitted in M.Tech.
+# Machine Translation Assignments
+
